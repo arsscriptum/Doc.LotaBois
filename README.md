@@ -25,7 +25,7 @@
 
 | SUPERFICIES | KM CARRES | ACRES | HECTARES |
 |-------------|-----------|-------|----------|
-| LONGEURE    | 0.95      | 235   | 95       |
+| LONGEUR     | 0.95      | 235   | 95       |
 | LARGEUR     | 575       | 1885  |          |
 
 
