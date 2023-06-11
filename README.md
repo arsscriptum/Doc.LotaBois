@@ -11,15 +11,19 @@
 
 ## MESURES DES DISTANCES LOT A BOIS
 
-DISTANCES	|	METRES   PIEDS|
----------------------------
-LONGEURE	|	1,650    5415 |
-LARGEUR 	|	575      1885 |
+**Tableau des distances**
+
+| DISTANCES | METRES | PIEDS |  
+|-----------|--------|-------|
+| LONGEURE  | 1,650  | 5415  | 
+| LARGEUR   | 575    | 1885  | 
 
 
 ## SURFACE DU LOT A BOIS
 
-KM CARRES	|	ACRES	|	HECTARES	|
------------------------------------------
-   0.95		|	235		|		95		|
+**Tableau des superficies**
 
+| SUPERFICIES | KM CARRES | ACRES | HECTARES |
+|-------------|-----------|-------|----------|
+| LONGEURE    | 0.95      | 235   | 95       |
+| LARGEUR     | 575       | 1885  |          |
