@@ -27,3 +27,8 @@
 |-------------|-----------|-------|----------|
 | LONGEURE    | 0.95      | 235   | 95       |
 | LARGEUR     | 575       | 1885  |          |
+
+
+## PHOTOS
+
+![GOOGLE MAPS](https://arsscriptum.github.io/files/LotaBois/LOTABOIS.png)
