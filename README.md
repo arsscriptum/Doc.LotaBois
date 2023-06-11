@@ -15,7 +15,7 @@
 
 | DISTANCES | METRES | PIEDS |  
 |-----------|--------|-------|
-| LONGEURE  | 1,650  | 5415  | 
+| LONGUEUR  | 1,650  | 5415  | 
 | LARGEUR   | 575    | 1885  | 
 
 
@@ -25,7 +25,7 @@
 
 | SUPERFICIES | KM CARRES | ACRES | HECTARES |
 |-------------|-----------|-------|----------|
-| LONGEUR     | 0.95      | 235   | 95       |
+| LONGUEUR    | 0.95      | 235   | 95       |
 | LARGEUR     | 575       | 1885  |          |
 
 
